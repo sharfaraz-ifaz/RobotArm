@@ -13,5 +13,6 @@ ___
 
 Final prototype:
 
+![](media/prototype.png)
 
 ## Full details in Report.pdf
