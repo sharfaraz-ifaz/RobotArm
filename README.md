@@ -11,8 +11,12 @@ The purpose of this project is to simulate a factory pick and place machine (rob
 ___
 # Pictures
 
-Final prototype:
+Final arm prototype:
 
 ![](media/prototype.png)
+
+NXT Camera mount and rails:
+
+![](media/NXTCam.png)
 
 ## Full details in Report.pdf
